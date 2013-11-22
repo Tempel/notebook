@@ -18,3 +18,6 @@ files and hand modified in Inkscape to create the inputs to the laser cutter.
 * _notebook.fcstd_: Layout of all parts for laser cutting.  Positioned as if
   the notepad was lying face-down on a table, with the leather exterior on top.
   The drawing view is exported as an SVG for editing in Inkscape.
+* _leather.svg_ & _leather.ngc_: Toolpath and G-code for cutting the leather
+  backing.  Converted to paths, split into layers, and exported with a feed
+  rate of 350 mm/minute.
