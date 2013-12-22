@@ -28,8 +28,14 @@ files and hand modified in Inkscape to create the inputs to the laser cutter.
   rate of 350 mm/minute.
 * _backing.svg_ & _backing.ngc_ and _pocket.svg_ & _pocket.ngc_: Toolpath and
   G-code for cutting the major wooden components.  Converted to paths, split
-  into layers, and exported with a feed rate of TBD mm/min.
+  into layers, and exported with a feed rate of 300 mm/min.
 * _border.svg_ & _border.ngc_: Toolpath and G-code for cutting the notepad
   border pieces.  Also made out of wood, with the same feed rate, but four of
   these pieces must be cut to make a notebook, whereas only one of each other
   piece is needed.
+
+
+License
+-------
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
